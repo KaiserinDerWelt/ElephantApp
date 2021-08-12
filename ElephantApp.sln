@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElephantApp", "ElephantApp.csproj", "{F52D52CE-C125-4972-A388-EB5C18308528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52D52CE-C125-4972-A388-EB5C18308528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52D52CE-C125-4972-A388-EB5C18308528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52D52CE-C125-4972-A388-EB5C18308528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52D52CE-C125-4972-A388-EB5C18308528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7C1C74A-3FA0-4248-B175-AE77A7562F73}
+	EndGlobalSection
+EndGlobal
